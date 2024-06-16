@@ -1,0 +1,149 @@
+    1  help
+    2   help ls
+    3  ls
+    4  help cd
+    5   ls
+    6  cd Postman/
+    7  cd..
+    8  cd ..
+    9  cd/
+   10  ls
+   11  cd~
+   12  cd ~
+   13  pwd
+   14  ls-l
+   15  ls -l
+   16  clear
+   17  cd /d/
+   18  cd/d
+   19  cd /d
+   20  cd/d/
+   21  clear
+   22  ls
+   23  cd /d/
+   24  cd /f/
+   25  cd /c/
+   26  ls
+   27  clear
+   28  nano
+   29  clear
+   30  cd /f/
+   31  mkdir test_dir
+   32  ls -l
+   33  clear
+   34  ping googl.com
+   35  date
+   36  sisteminfo
+   37  systeminfo
+   38  ipconfig
+   39  ipconfig -all
+   40  df -h
+   41  df -h
+   42  cd /f/
+   43  df -h
+   44  whoami
+   45  clear
+   46  ls -l
+   47   clear
+   48  ipconfig
+   49  sisteninfo
+   50  whoami
+   51  cliar
+   52  clear
+   53  git config --global user.name"Евгений"
+   54  clear
+   55  whoami
+   56  clear
+   57  git config --global user.name"Евгений"
+   58  clear
+   59  whoami
+   60  git config --global user.name"Евгений"
+   61  clear
+   62  git config --global user.name "Евгений"
+   63  git config --global user.name 
+   64  git config --global user.email
+   65  git clone https://github.com/Evgens1990/HW_10.git
+   66  cd test_dir
+   67  git status 
+   68  ls -l
+   69  cd test_dir
+   70  cd /f/tect_dir
+   71  cd HW_10/
+   72  git status 
+   73  git add new_fale.txt
+   74  git status
+   75   git commid -m "Created a new file"
+   76  git add new_fale.txt
+   77   git commid -m "Created a new file new_file/txt"
+   78  git status
+   79  git commit -m "Created"
+   80  git log
+   81  git branch 
+   82   git checkout -b test
+   83  git branch 
+   84   git checkout main
+   85   git checkout test
+   86  touch test.txt
+   87  git add test.txt
+   88  git commit -m"added test.txt"
+   89   git checkout mein
+   90   git checkout main
+   91  git merge test
+   92  git log
+   93   git push
+   94  help
+   95  help ls
+   96  ls
+   97  ls
+   98  cd Postman/
+   99  cd ..
+  100  cd /
+  101  ls
+  102  cd ~
+  103  ls
+  104  pwd
+  105  ls
+  106  ls - l
+  107  ls -l
+  108  clear
+  109  nano
+  110  clear
+  111  cd /f/
+  112  touch file.txt
+  113  vim file.txt
+  114  cd /f/
+  115  vim file.txt
+  116  nano file.txt
+  117  cat
+  118  git config --global user.name "Evgeniy"
+  119  git config --global user.email ekulakov256@gmail.com
+  120  git config --global user.email
+  121  git config --global user.name
+  122  git clone https://github.com/Evgens1990/HW_10.git
+  123  cd /f/HomeWork/HW_10
+  124  touch text_ignore.txt
+  125  vim .gitignore
+  126  git status
+  127  git add .gitignore
+  128  git status
+  129  git commit -m "Created a new file text_ignore"
+  130  touch main_test.txt
+  131  git add main_test.txt
+  132  git commit main_test.txt
+  133  git commit 
+  134  git commit -m "Created a new file main_test.txt"
+  135  checkout -b develop
+  136  git checkout -b develop
+  137  git branch
+  138  touch develop_test.txt
+  139  git add develop_test.txt
+  140  git commit -m "new file develop_test.txt"
+  141  vim develop_test.txt
+  142  git status
+  143  git add develop_test.txt
+  144  git status
+  145  git commit -m "edit develop_test.txt"
+  146  git checkout main 
+  147  git merge develop
+  148  git log
+  149  history > command_list.csv
